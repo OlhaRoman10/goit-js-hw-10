@@ -4,12 +4,9 @@
     flex-direction: column;
     width: 100%;
     margin-left: 28px;
-
-
-
 }
 
-/* Стилі для полів вводу */
+
 .form input[type='number'] {
     padding: 8px;
     margin-bottom: 16px;
