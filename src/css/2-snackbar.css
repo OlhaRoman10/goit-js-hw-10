@@ -1,0 +1,9 @@
+.form {
+    width: 360px;
+    margin: 36px auto auto 156px;
+
+}
+label[name="delay"] {
+    display: flex;
+    flex-direction: column;
+}
